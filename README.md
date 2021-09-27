@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Leonel,  I'm a Fullstack Developer :computer: who loves working with tecnologies like Javascript, React, Redux, Node JS, Express, Sequelize, among others. 
+My name is Leonel,  I'm from Argentina and I'm a Fullstack Developer :computer: who loves working with tecnologies like Javascript, React, Redux, Node JS, Express, Sequelize, among others. 
+
+I also like play videogames :video_game::joystick: and watch movies (specially on cinema) :tv::clapper:
 
 This is my space for you to know a little of me and my works. 
 
