@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonel</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **E-Commerce group project**
+- 🔭 I’m currently working on **Independent small projects**
 
 - 🌱 I’m currently learning **React Native**
 
