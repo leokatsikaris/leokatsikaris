@@ -31,7 +31,7 @@ I enjoy working on real-world products where scalability, maintainability, perfo
 
 **Backend**
 
-`Node.js` · `Express` · `NestJS` · `Python` · `Java` · `REST APIs`
+`Node.js` · `Express` · `NestJS` · `Python` · `REST APIs`
 
 **Databases**
 
