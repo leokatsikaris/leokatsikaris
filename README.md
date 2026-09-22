@@ -82,7 +82,7 @@ I contribute across the stack, working on:
 
 Worked on the evolution and modernization of an educational platform, including the migration from a monolithic solution toward a modern service-oriented architecture.
 
-**Stack:** `React` · `Java` · `Python`
+**Stack:** `React` · `Node` · `Python`· `AWS`
 
 ---
 
